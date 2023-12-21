@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  color: #fff;
+}
+
+main {
+  background-color: #000;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 240px;
+}
+
+button {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: white;
+  padding: 20px 12px 20px 12px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
