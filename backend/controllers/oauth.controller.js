@@ -3,7 +3,7 @@
 *
 * Configure consent screen and get Client Id and Client Secret
 * Check: https://console.cloud.google.com/apis/credentials
-* Blog: https://codevoweb.com/google-oauth-authentication-react-and-node
+* Blog: https://blog.arunshaw.in/blog/google-oauth-with-nodejs-and-react
 *
 * Creating google consent screen url with client id
 * Google redirects the provided redirect uri with a code in params
